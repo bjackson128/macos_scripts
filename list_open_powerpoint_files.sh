@@ -1,0 +1,1 @@
+lsof -c "Microsoft PowerPoint" | grep pptx > ~/Downloads/open_powerpoint_files.txt

@@ -1,0 +1,1 @@
+lsof -c "Microsoft Excel" | grep xlsx > ~/Downloads/open_excel_files.txt
